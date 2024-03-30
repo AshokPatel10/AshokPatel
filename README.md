@@ -1,15 +1,13 @@
+I'm the learner
 
-
+*****
 #### Profile links -
 <div align="center"><h3><a target="_blank" href="mailto:Ashokpatel998256@gmail.com">📧 Ashokpatel998256@gmail.com </a></h3>
  &emsp;
  &emsp;<a href="https://www.instagram.com/Ashokpatel__1/" target="_blank"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="30px"></img></a>
-  &emsp;<a href="https://www.linkedin.com/in/Ashok-kumar10/" target="_blank"><img src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" width="30px"></img></a> 
-    &emsp;<a href="https://www.hackerrank.com/profile/ashokpatel998256" target="_blank"><img src="https://cdncontribute.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-19.png" width="100px"></img></a> 
+ &emsp;<a href="https://www.linkedin.com/in/Ashok-kumar10/" target="_blank"><img src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png"  width="30px"></img></a> 
+ &emsp;<a href="https://www.hackerrank.com/profile/ashokpatel998256" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZRzJu9pk07oFysBHWiABqNS2uokzLfYzc2w&s" height="35px" width="100px"></img></a> 
   </div>
-  <br>
-  
- <hr>
 
 -----
 <details>
@@ -42,7 +40,6 @@
 >> </details>
 
 -----
-<summary>GitHub Stats</summary>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id=AshokPatel10.AshokPatel10)
   &emsp;
