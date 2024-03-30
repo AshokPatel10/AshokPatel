@@ -42,3 +42,6 @@
 >> </details>
 
 -----
+<summary>GitHub Stats</summary>
+ 
+ ![Narendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=napiyo&theme=merko&show_icons=true) &emsp;&emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshokPatel10&layout=compact)
