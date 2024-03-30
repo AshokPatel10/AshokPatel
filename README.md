@@ -47,6 +47,8 @@ I'm the learner
 
   *****
 
+  ## [Check out my all repos](https://github.com/AshokPatel10?tab=repositories)
+
   <details>
  <summary>GitHub Stats</summary>
    
