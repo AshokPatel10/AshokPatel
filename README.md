@@ -43,5 +43,8 @@
 
 -----
 <summary>GitHub Stats</summary>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id=AshokPatel10.AshokPatel10) 
+  &emsp;
  
  ![Ashok's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshokPatel10&theme=merko&show_icons=true) &emsp;&emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshokPatel10&layout=compact)
