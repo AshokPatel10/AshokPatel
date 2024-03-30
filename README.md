@@ -16,7 +16,7 @@
 <summary>SHOW About me </summary>
    
  ## 👨‍💻 About me
- >I graduated from **Nitte Meenakshi Institute of Technology , Bengaluru (India)** . in pursuit of a of a Bachelor's of Engineering in Electronics and Communication Engineering. (2022 Passout Batch)
+>I graduated from **Nitte Meenakshi Institute of Technology , Bengaluru (India)** . in pursuit of a Bachelor's of Engineering in Electronics and Communication Engineering. (2022 Passout Batch)
 
 
 >Self taught programmer and willing to programming professionally
