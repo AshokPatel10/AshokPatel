@@ -8,7 +8,7 @@
     &emsp;<a href="https://www.hackerrank.com/profile/ashokpatel998256" target="_blank"><img src="https://cdncontribute.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-19.png" width="100px"></img></a> 
   </div>
   <br>
-  <div align="center">
+  
  <hr>
 
 -----
